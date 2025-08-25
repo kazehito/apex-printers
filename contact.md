@@ -1,18 +1,20 @@
 ---
 layout: page
-title: Contact
+title: "Contact"
 permalink: /contact/
 ---
 
+# Get in Touch
+
+Reach out to us for quotes, questions, or to place an order.
+
 **Apex Printers**  
-Kumaltar, Kathmandu  
-Phone: +977-9841247312 
-Email: (Apex.printers2017@gmail.com)
+Kathmandu, Nepal  
+📞 Phone: 9841247312 
+📧 Email: apex.printers2017@gmail.com  
 
-**Business hours:** Sun–Fri, 9:00A.M–6:00 P.M
+## Hours
+- Sunday - Friday: 9 AM - 6 PM
+- Closed on Saturdays
 
-Want a quote? Email us with:
-- Quantity, size, paper type
-- Color or B&W
-- Deadline
-- Sample artwork (if any)
+[Learn more about our services](/services)
