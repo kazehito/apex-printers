@@ -1,13 +1,40 @@
 ---
-layout: home
-title: Apex Printers
-subtitle: High-quality printing • Fast turnaround • Fair pricing
+layout: page
+title: "Apex Printers"
+description: "High-quality printing in Kathmandu"
+header-img: "img/home-bg.jpg"
 ---
 
-We help Kathmandu businesses look sharp: **business cards, flyers, posters, banners, packaging**, and more.
+# Professional Printing Services in Kathmandu
 
-- Same-day & next-day options
-- In-house design support
-- Bulk discounts
+**High-quality printing • Fast turnaround • Fair pricing**
 
-👉 Browse our [Services](/services/) and [Portfolio](/portfolio/), or read the [Blog](/blog/).
+We help Kathmandu businesses look sharp with premium: **business cards, flyers, posters, banners, packaging**, and more.
+
+---
+
+## Why Choose Apex Printers?
+
+- ✅ **Same-day & next-day** options available
+- ✅ **In-house design** support team
+- ✅ **Bulk order** discounts
+- ✅ Modern printing equipment
+- ✅ Quality materials
+
+---
+
+## Our Services
+
+[View All Services](/services)
+
+- **Business Cards** - Offset and digital printing
+- **Flyers & Brochures** - Full color printing
+- **Posters & Banners** - Large format printing
+- **Packaging** - Custom boxes and labels
+- **Stationery** - Letterheads, envelopes, invoices
+
+---
+
+**Ready to get started?** [Contact us today](/contact) for a free quote!
+
+*Serving Kathmandu businesses since 2017*
