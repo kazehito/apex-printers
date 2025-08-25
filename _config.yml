@@ -1,12 +1,12 @@
 title: "Apex Printers"
 description: "High-quality printing, fast turnaround."
-url: "https://apex-printers.github.io" # leave as-is unless you add a custom domain later
-baseurl: ""                             # keep empty for apex-printers.github.io
+url: "https://kazehito.github.io"
+baseurl: "/apex-printers.github.io"
 
 author:
   name: "Apex Printers"
-  email: "apex.printers2017@gmail.com"   # update or remove
-  avatar: /assets/img/logo.png          # upload your logo later to match this path
+  email: "apex.printers2017@gmail.com"
+  avatar: /assets/img/logo.png
 
 navbar-links:
   Services: "services"
@@ -22,8 +22,7 @@ footer-links-active:
 
 social-network-links:
   email: "apex.printers2017@gmail.com"
-  facebook: "apexprinters"              # your handle/page
-  instagram: "apexprinters"             # your handle
+  facebook: "apexprinters"
+  instagram: "apexprinters"
 
-# Optional: colors
-site-theme: "classic"  # you can leave this or try others per the theme docs
+site-theme: "classic"
