@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Blog
+title: "Blog"
 permalink: /blog/
 ---
 
-Welcome to our blog—tips, print ideas, and behind-the-scenes at Apex Printers.
+# Blog
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%b %-d, %Y" }}
-{% endfor %}
+Coming soon! Tips on design, printing, and marketing for your business.
+
+<!-- This page will automatically list any blog posts you create in the _posts folder -->
