@@ -1,15 +1,22 @@
 ---
 layout: page
-title: Portfolio
+title: "Portfolio"
 permalink: /portfolio/
 ---
 
-Below are a few recent jobs. Click to view larger.
+# Our Work
 
-<div class="gallery">
-  <a href="/assets/img/work/business-cards-1.jpg"><img src="/assets/img/work/business-cards-1.jpg" alt="Business cards: matte finish" width="280"></a>
-  <a href="/assets/img/work/flyer-1.jpg"><img src="/assets/img/work/flyer-1.jpg" alt="A5 flyer" width="280"></a>
-  <a href="/assets/img/work/banner-1.jpg"><img src="/assets/img/work/banner-1.jpg" alt="Outdoor banner" width="280"></a>
-</div>
+Check out some of our recent printing projects for Kathmandu businesses.
 
-*Tip: upload your photos to* `/assets/img/work/` *and add more `<a><img></a>` blocks.*
+*(You can add images of your printed work here later)*
+
+**Example Project One**  
+Business cards for a local restaurant.
+
+**Example Project Two**  
+Event banners for a conference.
+
+**Example Project Three**  
+Product packaging for a local brand.
+
+[See our full range of services](/services)
